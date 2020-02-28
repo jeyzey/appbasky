@@ -1,6 +1,6 @@
 <div align="center">
 	<img width="500" height="200" src="media/logo.svg" alt="AppBasky">
-    <p><b>The fastest way for developers to build, deploy, and scale containerized apps</b> <br><br>
+    <b>The fastest way for developers to build, deploy, and scale containerized apps</b> <br>
     <p><b>Choose AppBasky for the same reasons lean startups do: it’s the best platform for testing, building and deploying modern apps quickly.</b> <br>
 	<hr>
 	<br>
