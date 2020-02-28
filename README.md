@@ -14,6 +14,9 @@
 
 <img src="media/header.png" alt="AppBasky">
 
+<p><b>Self-service, on-demand application stacks.</b>
+Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to build and deploy your favorite application frameworks, databases, and more.
+
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
 The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and fully integrated technology framework. 
 <br>
