@@ -55,16 +55,6 @@ Our integration with Github, GitLab and Bitbucket means every push to git and yo
 
 Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Kevinn Enriquez** - *Initial work* - [AppBasky](https://github.com/AppBasky)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
