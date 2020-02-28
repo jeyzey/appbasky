@@ -6,13 +6,10 @@
 	<br>
 </div>
 <div align="center">
-	**Follow the <a href="https://twitter.com/appbasky">AppBasky Twitter account</a> for updates on new list additions.**<br>
     :star: Star us on GitHub — it helps!
 </div>
 	<br>
-	<br>
-	<br>
-	
+
 ## Start your Engine
 
 <img src="media/header.png" alt="AppBasky">
@@ -68,3 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+<div align="center">
+	**Follow the <a href="https://twitter.com/appbasky">AppBasky Twitter account</a> for updates on new list additions.**<br>
+</div>
