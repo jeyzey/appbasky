@@ -1,6 +1,6 @@
 <div align="center">
 	<img width="500" height="200" src="media/logo.svg" alt="AppBasky">
-    <p><b>The AppBasky Acceleration Engine is an open source delivered on a unique, complete and fully integrated framework.</b> <br><br>
+    <p><b>DevOps is accelerating, BUT you need to do it right. AppBasky is delivered on a unique, complete, and fully integrated technology framework.</b> <br><br>
     <sub>We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub></p>
 	<hr>
 	<br>
