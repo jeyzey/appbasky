@@ -3,18 +3,17 @@
     <p><b>The fastest way for developers to build, deploy, and scale containerized apps</b> <br>
     <p><b>Choose AppBasky for the same reasons lean startups do: it’s the best platform for testing, building and deploying modern apps quickly.</b> <br>
 	<hr>
-	<br>
+
 </div>
 <div align="center">
     :star: Star us on GitHub — it helps!
 </div>
-	<br>
 
 ## Start your Engine
 
 <img src="media/header.png" alt="AppBasky">
 
-<p><b>Self-service, on-demand application stacks.</b><br>
+<p><b>Self-service, on-demand application stacks.</b><br><br>
 Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easy build and deploy your favorite application frameworks, databases, and more.
 
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
