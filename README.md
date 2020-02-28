@@ -14,7 +14,9 @@
 <img src="media/header.png" alt="AppBasky">
 
 <p><b>Self-service, on-demand application stacks.</b><br><br>
-Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easy build and deploy your favorite application frameworks, databases, and more.
+Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easy build and deploy your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
+
+From cloud to datacenter, AppBasky lets you deliver Kubernetes-as-a-Service for your team or for your customers.
 
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
 The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and fully integrated technology framework. 
