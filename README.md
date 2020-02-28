@@ -14,7 +14,7 @@
 
 <img src="media/header.png" alt="AppBasky">
 
-<p><b>Self-service, on-demand application stacks.</b>
+<p><b>Self-service, on-demand application stacks.</b><br>
 Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to build and deploy your favorite application frameworks, databases, and more.
 
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
