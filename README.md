@@ -19,8 +19,6 @@ Use the languages and tools you want. AppBasky includes pre-created container im
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
 The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and fully integrated technology framework. 
 <br>
-<br>
-<br>
 ## Contents
 
 - [Seamless Deployments](#seamless-deployments)
