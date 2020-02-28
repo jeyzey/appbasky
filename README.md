@@ -1,7 +1,6 @@
 <div align="center">
 	<img width="500" height="200" src="media/logo.svg" alt="AppBasky">
     <p><b>DevOps is accelerating, BUT you need to do it right. AppBasky is delivered on a unique, complete, and fully integrated technology framework.</b> <br><br>
-    <sub>We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub></p>
 	<hr>
 	<br>
 </div>
@@ -55,6 +54,9 @@ Our integration with Github, GitLab and Bitbucket means every push to git and yo
 
 Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors.
 
+## Contributions
+We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
+    
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
