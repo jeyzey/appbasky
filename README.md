@@ -14,7 +14,7 @@
 <img src="media/header.png" alt="AppBasky">
 
 <p><b>Self-service, on-demand application stacks.</b><br><br>
-Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easy build and deploy your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
+Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easily build and deploy your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
 
 From cloud to datacenter, AppBasky lets you deliver Kubernetes-as-a-Service for your team or for your customers.
 
@@ -30,12 +30,17 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [App Metrics](#app-metrics)
 
 ## Seamless Deployments
+The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. </br></br>AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. 
 
-The fastest way for developers to build, deploy, and manage applications in one open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments.
+## Turbocharge Build Process
+<img src="media/devop.png?raw=true" height="350" width="auto" align="right" alt="AppBasky">
+AppBasky concurrent build feature lets you automate several builds simultaneously and faster. </br></br>With every code push to Github, Bitbucket, or GitLab, we will build your project automatically.
+</br></br>Every change to your application AppBasky creates a unique deployable release. Continuous deployment ensures updates with zero downtime. Rollback to previous release with its automatic backup and manual restore.
 
-## Scale
+</br>
+## Instant Scale
 
-We handle everything from critical production, configuration, load balancing, failovers, logging, security, and more.
+AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. Engineers and developers can focus on building great applications without thinking about the overhead management.
 
 ## Programming Languages
 
