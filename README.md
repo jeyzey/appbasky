@@ -29,6 +29,8 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [Programming Languages](#programming-languages)
 - [Integration](#integration)
 - [App Metrics](#app-metrics)
+- [Contributions](#contributions)
+- [License](#license)
 
 ## Seamless Deployments
 The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. 
