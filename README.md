@@ -33,7 +33,7 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [License](#license)
 
 ## Seamless Deployments
-The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. This is test
+The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. 
 
 ## Turbocharge Build Process
 AppBasky concurrent build feature lets you automate several builds simultaneously and faster. With every code push to Github, Bitbucket, or GitLab, we will build your project automatically.
