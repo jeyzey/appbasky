@@ -37,7 +37,8 @@ The fastest way for developers to deploy, scale and manage applications with eas
 <img src="media/devop.png?raw=true" height="300" width="auto" align="right" alt="AppBasky">
 AppBasky concurrent build feature lets you automate several builds simultaneously and faster. </br></br>With every code push to Github, Bitbucket, or GitLab, we will build your project automatically.
 </br></br>Every change to your application AppBasky creates a unique deployable release. Continuous deployment ensures updates with zero downtime. Rollback to previous release with its automatic backup and manual restore.
-
+<br>
+<br>
 ## Instant Scale
 AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. Engineers and developers can focus on building great applications without thinking about the overhead management.
 
