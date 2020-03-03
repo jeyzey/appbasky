@@ -28,7 +28,7 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [Auto Scaling](#auto-scaling)
 - [Familiar Languages and Tools](#familiar-languages-and-tools)
 - [Maximize Productivity](#maximize-productivity)
-- [Build and Deploy for free](#build-and-deploy-for-free)
+- [Deploy for free](#deploy-for-free)
 - [App Metrics](#app-metrics)
 - [Contributions](#contributions)
 - [License](#license)
@@ -48,14 +48,20 @@ AppBasky's integration with Github, GitLab and Bitbucket means every push to git
 <img align="right" height="250" width="250" src="media/scale.png" alt="AppBasky-deploy">
 AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. </br></br>AppBasky's autoscaling feature allows your application to instantly scale up or down as needed, your don't need to worry about application performance or crashing due to platform capacity. </br></br>Engineers and developers can focus on building great applications without thinking the overhead management.</br></br>
 
-## Familiar Languages and Tools
-Build your applications on your way! AppBasky's flexibility gives developers the freedom of choice. Build your applications with your favorite tools, languages, databases and services that work best for your application, team and business.
+## Development Languages
+Build your applications on your way! AppBasky's flexibility gives developers the freedom of choice. 
+AppBasky ensure that the latest language versions, language frameworks and other language features are patched and fully supported.
 
 * Python
-* C#
+* Node
 * PHP
-* Node.js
+* Ruby
 * Java
+* Scala
+* Go
+* Clojure
+
+Build your applications with your favorite tools, languages, databases and services that work best for your application, team and business.
 
 
 ## Maximize Productivity
@@ -63,7 +69,7 @@ AppBasky is an open source Kubernetes-as-a-Service platform that managed contain
 <img src="media/devop.png" alt="AppBasky-heavy-lifting"></br></br>
 Deploying applications on AppBasky is fast and reliable. AppBasky's team monitors the uptime, performance, and infrastructure concerns, freeing you from distraction of setting up and managing own servers and hardware operations.
 
-## Build and Deploy for Free
+## Deploy for Free
 
 Build and deploy your applications for free. AppBasky help you experiment, play or test out new ideas with your application without paying any fee. You can deploy your free application as many times as you need to as long as it will be live and publicly accessible. 
 
