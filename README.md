@@ -65,7 +65,7 @@ Deploying applications on AppBasky is fast and reliable. AppBasky's team monitor
 
 ## Build and Deploy for Free
 
-Build and deploy your applications for free. AppBasky help you experiment, play or test out new ideas with your users without paying a cent. You can deploy your free application as many times as you need to as long as it will be live and publicly accessible.
+Build and deploy your applications for free. AppBasky help you experiment, play or test out new ideas with your application without paying any fee. You can deploy your free application as many times as you need to as long as it will be live and publicly accessible. 
 
 ## App Metrics
 
