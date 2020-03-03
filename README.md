@@ -79,7 +79,8 @@ Know what’s going on with your applications with our built-in monitoring of re
 
 ## Demo
 
-Check out the demo below for a quick overview of how AppBasky works. 
+Check out the demo below for a quick overview of how AppBasky works. </br></br>
+<img src="media/browser.png" alt="AppBasky-demo">
 
 ## Getting Started
 
