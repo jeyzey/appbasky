@@ -33,7 +33,7 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [License](#license)
 
 ## Seamless Deployments
-The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. AppBasky helps you prototype new ideas and deliver new applications to production easily.
+The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. </br></br>Each deployment comes with a unique, shareable URL that remains up-to-date as you work. AppBasky helps you prototype new ideas and deliver new applications to production easily.
 
 ## Turbocharge Build Process
 <img align="left" height="250" width="250" src="media/deploy.png" alt="AppBasky-turbocharge">
@@ -41,13 +41,13 @@ AppBasky concurrent build feature lets you automate several builds simultaneousl
 </br></br>
 Every change to your application AppBasky creates a unique deployable release. Continuous deployment ensures updates with zero downtime. Rollback to previous release with its automatic backup and manual restore.
 </br></br>
-Our integration with Github, GitLab and Bitbucket means every push to git and your static website will be live with zero configuration required. Every AppBasky project comes with free custom domain support and free SSL certificate. 
+AppBasky's integration with Github, GitLab and Bitbucket means every push to git and your static website will be live with zero configuration required. Every AppBasky project comes with free custom domain support and free SSL certificate. 
 
-## Instant Scale
-AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. Engineers and developers can focus on building great applications without thinking the overhead management.
+## Auto Scaling
+AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. AppBasky's autoscaling feature allows your application to instantly scale up or down as needed. </br></br>Engineers and developers can focus on building great applications without thinking the overhead management.
 
 ## Programming Languages
-Deploy your application using many of the popular languages like: 
+Build your applications on your way! AppBasky's flexibility gives developers the freedom of choice. Build your applications with your favorite tools, languages, databases and services that work best for your application, team and business.
 
 * Python
 * C#
@@ -55,7 +55,6 @@ Deploy your application using many of the popular languages like:
 * Node.js
 * Java
 
-Start with zero configuration deployments in AppBasky. Manage 
 
 ## Maximize Productivity
 AppBasky is an open source Kubernetes-as-a-Service platform that managed container system for building, running and managing modern applications. AppBasky's tools and services are meticulously designed to support the best possible developer experience.</br></br>
@@ -64,7 +63,7 @@ Deploying applications on AppBasky is fast and reliable. AppBasky's team monitor
 
 ## App Metrics
 
-Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors.
+Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors. 
 
 ## Contributions
 We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
