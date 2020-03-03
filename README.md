@@ -77,9 +77,21 @@ Build and deploy your applications for free. AppBasky help you experiment, play 
 
 Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors. AppBasky provide a detailed overview of your application status.
 
+## Demo
+
+Check out the demo below for a quick overview of how AppBasky works. 
+
+## Getting Started
+
+This is how you set up AppBasky
+
 ## Contributions
 We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
     
+## Mailing List
+
+Want to stay up to date? Subscribe to our [mailinglist](mailing list). No Spam, really low traffic.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
