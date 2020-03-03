@@ -44,7 +44,8 @@ Every change to your application AppBasky creates a unique deployable release. C
 AppBasky's integration with Github, GitLab and Bitbucket means every push to git and your application will be live with zero configuration required. Every AppBasky project comes with free custom domain support and free SSL certificate. 
 
 ## Auto Scaling
-AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. AppBasky's autoscaling feature allows your application to instantly scale up or down as needed. </br></br>Engineers and developers can focus on building great applications without thinking the overhead management.
+<img align="right" height="250" width="250" src="media/scale.png" alt="AppBasky-deploy">
+AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. AppBasky's autoscaling feature allows your application to instantly scale up or down as needed. </br></br>Engineers and developers can focus on building great applications without thinking the overhead management.</br></br>
 
 ## Programming Languages
 Build your applications on your way! AppBasky's flexibility gives developers the freedom of choice. Build your applications with your favorite tools, languages, databases and services that work best for your application, team and business.
