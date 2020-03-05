@@ -26,12 +26,16 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 - [Seamless Deployments](#seamless-deployments)
 - [Turbocharge Build Process](#turbocharge-build-process)
 - [Auto Scaling](#auto-scaling)
-- [Familiar Languages and Tools](#familiar-languages-and-tools)
+- [Development Languages](#development-languages)
 - [Maximize Productivity](#maximize-productivity)
 - [Deploy for free](#deploy-for-free)
 - [App Metrics](#app-metrics)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
 - [Contributions](#contributions)
+- [Mailing List](#mailing-list)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Seamless Deployments
 The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. </br></br>Each deployment comes with a unique, shareable URL that remains up-to-date as you work. AppBasky helps you prototype new ideas and deliver new applications to production easily.
