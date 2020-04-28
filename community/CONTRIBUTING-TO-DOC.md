@@ -37,11 +37,11 @@ Some general guidelines when submitting issues for developer documentation:
 
 ## Commit your changes
 * Reference the issue number along with a brief description in your commits
-* Set your commit.template to the `COMMIT_TEMPLATE` given in the `.github` directory. `git config --local commit.template $GOPATH/src/github.com/openebs/openebs/.github`
+* Set your commit.template to the `COMMIT_TEMPLATE` given in the `.github` directory. `git config --local commit.template $GOPATH/src/github.com/appbasky/appbasky/.github`
 
 ## Submit a Pull request
 * Rebase your development branch
-* Submit the PR from the development branch to the openebs/openebs:master
+* Submit the PR from the development branch to the appbasky/appbasky:master
 * Incorporate review comments, if any, in the development branch.
 * Once the PR is accepted, close the branch.
 * After the PR is merged the development branch in the forked repository can be deleted.
