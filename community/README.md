@@ -16,7 +16,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 The AppBasky community is guided by our [Code of Conduct](https://github.com/AppBasky/appbasky/blob/master/community/CODE_OF_CONDUCT.md), which we encourage everybody to read before participating.
 
 ## Contact
-* Slack: [Join our community](https://appbasky.slack.com)
+* Slack: [Join our community](https://appbasky.slack.com/join/shared_invite/zt-drjj6h81-MgGQT9_tIcr82e_zIlKPrA#/)
 * Twitter: Follow us [@appbasky](https://twitter.com/AppBasky)
 * Blog: Check out our [Blog](http://appbasky.org/blog)
 * Videos: [Youtube](https://www.youtube.com/channel/UCz3d2uJUlzapcv9tPeeGWew)
