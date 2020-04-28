@@ -5,7 +5,7 @@ Welcome to AppBasky! Great!! We're glad to have you here. You can get started by
 ## Community discussions
 We welcome community contributions! If you are planning on making more elaborate changes, please discuss them on the community slack.
 
-The AppBasky Slack workspace is appbasky.slack.com. To join, [*click this invitation to our Slack workspace*](#) or contact opensource@appbasky.org to get your Slack invitation.
+The AppBasky Slack workspace is appbasky.slack.com. To join, [*click this invitation to our Slack workspace*](https://appbasky.slack.com/join/shared_invite/zt-drjj6h81-MgGQT9_tIcr82e_zIlKPrA#/) or contact opensource@appbasky.org to get your Slack invitation.
 
 ## Contributing
 The [contributor's guide](https://github.com/AppBasky/appbasky/blob/master/community/CONTRIBUTING.md) provides a starting point for contributing ideas and bug fixes to the AppBasky project.
