@@ -26,7 +26,7 @@ When raising issues, please specify the following:
 * Any other details that might be useful.
 
 ## Submit Change to Improve Documentation
-Getting documentation right is hard! Refer to this [page](#) for more information on how you could improve the developer documentation by submitting pull requests with appropriate tags. Here's a [list of tags](#) that could be used for the same. Help us keep our documentation clean, easy to understand, and accessible.
+Getting documentation right is hard! Refer to this [page](https://github.com/AppBasky/appbasky/blob/master/community/CONTRIBUTING-TO-DOC.md) for more information on how you could improve the documentation by submitting pull requests with appropriate tags. Here's a [list of tags](https://github.com/AppBasky/appbasky/blob/master/contribute/LABELS-OF-ISSUES.md) that could be used for the same. Help us keep our documentation clean, easy to understand, and accessible.
 
 ## Submit Proposals for New Features
 There is always something more that is required, to make it easier to suit your use-cases. Feel free to join the discussion on new features or raise a PR with your proposed change.
@@ -37,6 +37,6 @@ There is always something more that is required, to make it easier to suit your 
 Provide PRs with appropriate tags for bug fixes or enhancements to the source code.
 
 ## Solve Existing Issues
-Head over to issues to find issues where help is needed from contributors. See our [list of labels guide](#) to help you find issues that you can solve faster.
+Head over to issues to find issues where help is needed from contributors. See our [list of labels guide](https://github.com/AppBasky/appbasky/blob/master/contribute/LABELS-OF-ISSUES.md) to help you find issues that you can solve faster.
 
 A person looking to contribute can take up an issue by claiming it as a comment/assign their GitHub ID to it. In case there is no PR or update in progress for a week on the said issue, then the issue reopens for anyone to take up again. We need to consider high priority issues/regressions where response time must be a day or so.
