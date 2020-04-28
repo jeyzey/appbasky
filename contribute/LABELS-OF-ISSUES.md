@@ -28,8 +28,8 @@ Labels prefixed with help implies that issue needs some help from community/user
 
 Label | Description
 ------------ | -------------
-help/beginner| Need small help on docs (beginner level)
-help/intermediate | Need help to fix the code ( Intermediate level)
+help/beginner| Need small help on docs (Beginner level)
+help/intermediate | Need help to fix the code (Intermediate level)
 help/expert | Need help on design changes and code review (Expert level)
 
 ## Area
