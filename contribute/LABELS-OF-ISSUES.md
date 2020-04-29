@@ -40,7 +40,6 @@ Label | Description
 ------------ | -------------
 area/appbasky| AppBasky specific
 area/k8s| Kubernetes specific
-area/ci| Continuous integration specific
 area/storage| Storage specific
 
 ## Size
@@ -74,8 +73,8 @@ Labels with prefix *repo* points the repository where given issue needs to be fi
 Label | Description
 ------------ | -------------
 repo/appbasky|Related to appbasky/appbasky repository
-repo/appbaskyserver|Related to appbasky/appbaskyserver repository
-repo/k8s-provisioner|Related to appbasky/k8s-provisioner repository
+repo/frontend|Related to appbasky/frontend repository
+repo/backend|Related to appbasky/backend repository
 
 ## General
 As the name suggests, this contains general category labels and they are self-explanatory.
