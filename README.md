@@ -76,8 +76,8 @@ Focus only on building great applications without the management overhead.
 Beginner-friendly, and developer-friendly WordPress hosting.
 Build, scale and manage hundreds of sites with ease.
 
-![alt text](media/wp-deploy.gif "Work fast, create awesome apps")
-![alt text](media/wp-deploy2.png "Work fast, create awesome apps")
+![alt text](media/wp-deploy.gif "Wordpress Deployment")
+![alt text](media/wp-deploy2.png "Wordpress Application")
 
 # Built for designers and creative agencies
 One place to manage your team, client sites and workflow.
