@@ -2,6 +2,8 @@
 
 **The fastest way for developers to deploy and scale containerized apps using Kubernetes.**
 
+---
+
 Choose AppBasky and Run Kubernetes Everywhere: it’s the best platform for testing, building and deploying modern apps quickly.
 
 AppBasky is 100% Open Source project
@@ -21,7 +23,7 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 # Contents
 - [Instant Deployment](#instant-deployment)
 - [Turbocharge your build process](#turbocharge-your-build-process)
-- [Work fast, create awesome apps](#work-fast,-create-awesome-apps)
+- [Work fast and create awesome apps](#work-fast-and-create-awesome-apps)
 - [WordPress hosting](#wordpress-hosting)
 - [Built for designers and creative agencies](#built-for-designers-and-creative-agencies)
 - [Get started with AppBasky](#get-started-with-appbasky)
@@ -47,7 +49,7 @@ Every change to your application AppBasky creates a unique deployable release. C
 
 AppBasky's integration with Github means every push to git and your application will be live with zero configuration required. Every AppBasky comes with custom domain and SSL support.
 
-# Work fast, create awesome apps
+# Work fast and create awesome apps
 Focus only on building great applications without the management overhead.
 
 ![alt text](media/work-fast.png "Work fast, create awesome apps")
