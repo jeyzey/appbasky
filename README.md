@@ -55,16 +55,16 @@ Focus only on building great applications without the management overhead.
 ![alt text](media/work-fast.png "Work fast, create awesome apps")
 
 ## Zero Configurations
-Zero server management and zero configuration deployments.
+- Zero server management and zero configuration deployments.
 
 ## Seamless Re-builds
-Every change to your application creates a unique deployable release.
+- Every change to your application creates a unique deployable release.
 
 ## Simple Management
-Easily manage deployment environments on any cloud.
+- Easily manage deployment environments on any cloud.
 
 ## Collaborative
-Invite a team member to collaborate with the app that you are building.
+- Invite a team member to collaborate with the app that you are building.
 
 # WordPress hosting
 Beginner-friendly, and developer-friendly WordPress hosting.
@@ -77,16 +77,16 @@ Build, scale and manage hundreds of sites with ease.
 One place to manage your team, client sites and workflow.
 
 ## Easy to use
-Great for non-developers who want to launch a WordPress site.
+- Great for non-developers who want to launch a WordPress site.
 
 ## Collaboration
-Collaborate with your agency or publishing team.
+- Collaborate with your agency or publishing team.
 
 ## Free SSL
-Add free SSL certificate straight from your dashboard.
+- Add free SSL certificate straight from your dashboard.
 
 ## Restore backups
-Built-in caching and automatic daily backups.
+- Built-in caching and automatic daily backups.
 
 
 # Get started with AppBasky
