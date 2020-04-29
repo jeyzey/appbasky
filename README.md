@@ -1,3 +1,5 @@
+<div align="center">
+
 ![alt text](media/logo.png "AppBasky Logo")
 
 **The fastest way for developers to deploy and scale containerized apps using Kubernetes.**
@@ -8,6 +10,10 @@ Choose AppBasky and Run Kubernetes Everywhere: it’s the best platform for test
 
 AppBasky is 100% Open Source project
 made with ❤️ by the community.
+
+⭐️ Star us on GitHub it helps!
+
+</div>
 
 # Start your Engine
 ![alt text](media/header.png "Start Your Engine on AppBasky")
