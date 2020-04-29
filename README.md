@@ -1,112 +1,104 @@
-<div align="center">
-	<img width="500" height="200" src="media/logo.svg" alt="AppBasky">
-    <p><b>The fastest way for developers to build, deploy, and scale containerized apps using Kubernetes</b> <br>
-    <p><b>Choose AppBasky and Run Kubernetes Everywhere: it’s the best platform for testing, building and deploying modern apps quickly.</b> <br>
-	<hr>
+![alt text](media/logo.png "AppBasky Logo")
+**The fastest way for developers to deploy and scale containerized apps using Kubernetes.** 
 
-</div>
-<div align="center">
-    :star: Star us on GitHub — it helps!
-</div>
+Choose AppBasky and Run Kubernetes Everywhere: it’s the best platform for testing, building and deploying modern apps quickly.
 
-## Start your Engine
+AppBasky is 100% Open Source project
+made with ❤️ by the community.
 
-<img src="media/header.png" alt="AppBasky-Performance">
+# Start your Engine
+![alt text](media/header.png "Start Your Engine on AppBasky")
 
-<p><b>Self-service, on-demand application stacks.</b><br><br>
-Use the languages and tools you want. AppBasky includes pre-created container images and templates that allow you to easily build and deploy your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
+## Self-service
+Use the languages and tools you want. AppBasky includes pre-created container images and templates.
 
 From cloud to datacenter, AppBasky lets you deliver Kubernetes-as-a-Service for your team or for your customers.
 
 Start Your Engine! Accelerate your DevOps Performance using AppBasky.
 The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and fully integrated technology framework. 
-<br>
+
 ## Contents
-
-- [Seamless Deployments](#seamless-deployments)
-- [Turbocharge Build Process](#turbocharge-build-process)
-- [Auto Scaling](#auto-scaling)
-- [Development Languages](#development-languages)
-- [Maximize Productivity](#maximize-productivity)
-- [Deploy for free](#deploy-for-free)
-- [App Metrics](#app-metrics)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
+- [Instant Deployment](#instant-deployment)
+- [Turbocharge your build process](#turbocharge-your-build-process)
+- [Work fast, create awesome apps](#work-fast,-create-awesome-apps)
+- [WordPress hosting](#wordpress-hosting)
+- [Built for designers and creative agencies](#built-for-designers-and-creative-agencies)
+- [Get started with AppBasky](#get-started-with-appbasky)
 - [Contributions](#contributions)
-- [Mailing List](#mailing-list)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
-## Seamless Deployments
-The fastest way for developers to deploy, scale and manage applications with ease on a Kubernetes-based open source platform. AppBasky enables developers and engineers to stay more productive with its zero configuration deployments. </br></br>Each deployment comes with a unique, shareable URL that remains up-to-date as you work. AppBasky helps you prototype new ideas and deliver new applications to production easily.
+## Instant Deployment
+Easy deploy and scale your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
 
-## Turbocharge Build Process
-<img align="left" height="250" width="250" src="media/deploy.png" alt="AppBasky-deploy">
-AppBasky concurrent build feature lets you automate several builds simultaneously and faster. With every code push to Github, Bitbucket, or GitLab, we will build your project automatically. 
-</br></br>
+![alt text](media/instant-deployment.gif "Instant Web App Deployment")
+
+### Works with all familiar languages and tools
+- Python
+- Ruby
+- Node.js
+- Java
+- PHP
+
+## Turbocharge your build process
 Every change to your application AppBasky creates a unique deployable release. Continuous deployment ensures updates with zero downtime. Rollback to previous release with its automatic backup and manual restore.
-</br></br>
-AppBasky's integration with Github, GitLab and Bitbucket means every push to git and your application will be live with zero configuration required. Every AppBasky project comes with free custom domain support and free SSL certificate. 
 
-## Auto Scaling
-<img align="right" height="250" width="250" src="media/scale.png" alt="AppBasky-deploy">
-AppBasky handles everything from critical production, configuration, load balancing, failovers, logging, security, and more. You don’t need to worry about the website surges and managing underlying infrastructure. </br></br>AppBasky's autoscaling feature allows your application to instantly scale up or down as needed, your don't need to worry about application performance or crashing due to platform capacity. </br></br>Engineers and developers can focus on building great applications without thinking the overhead management.</br></br>
+![alt text](media/best-product.png "Instant Web App Deployment")
 
-## Development Languages
-Build your applications on your way! AppBasky's flexibility gives developers the freedom of choice. 
-AppBasky ensure that the latest language versions, language frameworks and other language features are patched and fully supported.
+AppBasky's integration with Github means every push to git and your application will be live with zero configuration required. Every AppBasky comes with custom domain and SSL support.
 
-* Python
-* Node
-* PHP
-* Ruby
-* Java
-* Scala
-* Go
-* Clojure
+## Work fast, create awesome apps
+Focus only on building great applications without the management overhead.
 
-Build your applications with your favorite tools, languages, databases and services that work best for your application, team and business.
+![alt text](media/work-fast.png "Work fast, create awesome apps")
+
+### Zero Configurations
+Zero server management and zero configuration deployments.
+
+### Seamless Re-builds
+Every change to your application creates a unique deployable release.
+
+### Simple Management
+Easily manage deployment environments on any cloud.
+
+### Collaborative
+Invite a team member to collaborate with the app that you are building.
+
+## WordPress hosting
+Beginner-friendly, and developer-friendly WordPress hosting.
+Build, scale and manage hundreds of sites with ease.
+
+![alt text](media/wp-deploy.gif "Work fast, create awesome apps")
+![alt text](media/wp-deploy2.png "Work fast, create awesome apps")
+
+## Built for designers and creative agencies
+One place to manage your team, client sites and workflow.
+
+### Easy to use
+Great for non-developers who want to launch a WordPress site.
+
+### Collaboration
+Collaborate with your agency or publishing team.
+
+### Free SSL
+Add free SSL certificate straight from your dashboard.
+
+### Restore backups
+Built-in caching and automatic daily backups.
 
 
-## Maximize Productivity
-AppBasky is an open source Kubernetes-as-a-Service platform that managed container system for building, running and managing modern applications. AppBasky's tools and services are meticulously designed to support the best possible developer experience.</br></br>
-<img src="media/devop.png" alt="AppBasky-heavy-lifting"></br></br>
-Deploying applications on AppBasky is fast and reliable. AppBasky's team monitors the uptime, performance, and infrastructure concerns, freeing you from distraction of setting up and managing own servers and hardware operations.
+## Get started with AppBasky
+A 100% Open Source project, check it out and give it a try.
 
-## Deploy for Free
-
-Build and deploy your applications for free. AppBasky help you experiment, play or test out new ideas with your application without paying any fee. You can deploy your free application as many times as you need to as long as it will be live and publicly accessible. 
-
-## App Metrics
-
-Know what’s going on with your applications with our built-in monitoring of response times, memory, CPU load, and errors. AppBasky provide a detailed overview of your application status.
-
-## Demo
-
-Check out the demo below for a quick overview of how AppBasky works. </br></br>
-<img src="media/browser.png" alt="AppBasky-demo">
-
-## Getting Started
-
-This is how you set up AppBasky
 
 ## Contributions
-We <a href="https://github.com/AppBasky/appbasky">welcome contributions</a>, whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
-    
-## Mailing List
-
-Want to stay up to date? Subscribe to our [mailinglist](mailing list). No Spam, really low traffic.
+We welcome [contributions](https://github.com/AppBasky/appbasky/blob/master/community/CONTRIBUTING.md), whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-<div align="center">
-	**Follow the <a href="https://twitter.com/appbasky">AppBasky Twitter account</a> for updates on new list additions.**<br>
-</div>
+## Contact
+* Slack: [Join our community](https://appbasky.slack.com/join/shared_invite/zt-drjj6h81-MgGQT9_tIcr82e_zIlKPrA#/)
+* Twitter: Follow us [@appbasky](https://twitter.com/AppBasky)
+* Blog: Check out our [Blog](http://appbasky.org/blog)
+* Videos: [Youtube](https://www.youtube.com/channel/UCz3d2uJUlzapcv9tPeeGWew)
