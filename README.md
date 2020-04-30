@@ -39,7 +39,7 @@ The AppBasky DevOps Acceleration Engine is delivered on a unique, complete, and 
 # Instant Deployment
 Easy deploy and scale your favorite application frameworks, databases, and images to your Kubernetes clusters faster and easier than ever.
 
-![alt text](media/instant-deployment.gif "Instant Web App Deployment")
+![alt text](media/instant-deployment.gif "Instant Web App Deployment on AppBasky")
 
 ## Works with all familiar languages and tools
 - Python
@@ -51,14 +51,14 @@ Easy deploy and scale your favorite application frameworks, databases, and image
 # Turbocharge your build process
 Every change to your application AppBasky creates a unique deployable release. Continuous deployment ensures updates with zero downtime. Rollback to previous release with its automatic backup and manual restore.
 
-![alt text](media/best-product.png "Instant Web App Deployment")
+![alt text](media/best-product.png "The Best Products Start with AppBasky")
 
 AppBasky's integration with Github means every push to git and your application will be live with zero configuration required. Every AppBasky comes with custom domain and SSL support.
 
 # Work fast and create awesome apps
 Focus only on building great applications without the management overhead.
 
-![alt text](media/work-fast.png "Work fast, create awesome apps")
+![alt text](media/work-fast.png "Work fast, create awesome apps with AppBasky")
 
 ## Zero Configurations
 - Zero server management and zero configuration deployments.
@@ -76,8 +76,8 @@ Focus only on building great applications without the management overhead.
 Beginner-friendly, and developer-friendly WordPress hosting.
 Build, scale and manage hundreds of sites with ease.
 
-![alt text](media/wp-deploy.gif "Wordpress Deployment")
-![alt text](media/wp-deploy2.png "Wordpress Application")
+![alt text](media/wp-deploy.gif "Wordpress Deployment on AppBasky")
+![alt text](media/wp-deploy2.png "Wordpress Application on AppBasky")
 
 # Built for designers and creative agencies
 One place to manage your team, client sites and workflow.
