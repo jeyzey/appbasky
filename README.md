@@ -60,17 +60,17 @@ Focus only on building great applications without the management overhead.
 
 ![alt text](media/work-fast.png "Work fast, create awesome apps with AppBasky")
 
-## Zero Configurations
-- Zero server management and zero configuration deployments.
+- Zero Configurations
+    - Zero server management and zero configuration deployments.
 
-## Seamless Re-builds
-- Every change to your application creates a unique deployable release.
+- Seamless Re-builds
+    - Every change to your application creates a unique deployable release.
 
-## Simple Management
-- Easily manage deployment environments on any cloud.
+- Simple Management
+    - Easily manage deployment environments on any cloud.
 
-## Collaborative
-- Invite a team member to collaborate with the app that you are building.
+- Collaborative
+    - Invite a team member to collaborate with the app that you are building.
 
 # WordPress hosting
 Beginner-friendly, and developer-friendly WordPress hosting.
@@ -82,32 +82,38 @@ Build, scale and manage hundreds of sites with ease.
 # Built for designers and creative agencies
 One place to manage your team, client sites and workflow.
 
-## Easy to use
-- Great for non-developers who want to launch a WordPress site.
+- Easy to use
+    - Great for non-developers who want to launch a WordPress site.
 
-## Collaboration
-- Collaborate with your agency or publishing team.
+- Collaboration
+    - Collaborate with your agency or publishing team.
 
-## Free SSL
-- Add free SSL certificate straight from your dashboard.
+- Free SSL
+    - Add free SSL certificate straight from your dashboard.
 
-## Restore backups
-- Built-in caching and automatic daily backups.
+- Restore backups
+    - Built-in caching and automatic daily backups.
 
 
-# Get started with AppBasky
-A 100% Open Source project, check it out and give it a try.
+# Getting Started
+Follow the quickstart [guide](https://stagingdoc.d.appbasky.org/installation.html) on how to install AppBasky to your server. 
 
 
 # Contributions
-We welcome [contributions](https://github.com/AppBasky/appbasky/blob/master/community/CONTRIBUTING.md), whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
+We welcome contributions, whether you're into Python, Kubernetes, want to get started in open-source, or just have an improvement idea.
+
+- Join our community
+    - To join, [*click this invitation to our Slack workspace*](https://appbasky.slack.com/join/shared_invite/zt-drjj6h81-MgGQT9_tIcr82e_zIlKPrA#/) or contact opensource@appbasky.org to get your Slack invitation.
+- Raise an issue or help with fixes and features?
+    - Check [open issues](https://github.com/AppBasky/appbasky/issues)
+    - Check [contributing guide](https://github.com/AppBasky/appbasky/blob/master/community/CONTRIBUTING.md)
+
 
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AppBasky/appbasky/blob/master/LICENSE.md) file for details
 
 # Contact
-* Slack: [Join our community](https://appbasky.slack.com/join/shared_invite/zt-drjj6h81-MgGQT9_tIcr82e_zIlKPrA#/)
 * Twitter: Follow us [@appbasky](https://twitter.com/AppBasky)
 * Blog: Check out our [Blog](http://appbasky.org/blog)
 * Videos: [Youtube](https://www.youtube.com/channel/UCz3d2uJUlzapcv9tPeeGWew)
